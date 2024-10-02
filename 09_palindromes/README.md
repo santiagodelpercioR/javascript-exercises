@@ -16,4 +16,6 @@ palindromes('racecar') // true
 palindromes('tacos') // false
 ```
 
+npm test a.spec.js
+
 
